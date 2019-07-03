@@ -7,4 +7,4 @@
 
 Лицензия: **Free**.
 
-![](https://github.com/drilnet/blender3d-dice2/blob/master/UA.png)
+![](https://github.com/drilnet/blender3d-logovrle8-logovrle16/blob/master/UA.png)
