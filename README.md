@@ -21,6 +21,9 @@
 
 Изображения логотипа разных размеров (плюс анимация разных размеров) и сам **blend**-файл [здесь](https://github.com/drilnet/blender3d-logovrle8-logovrle16/tree/master/LogoVRLE8%2C%20ver.%200%207)
 
+**Примечание.**
+Логотип для алгоритма **VRLE16** должен быть чуть позже!
+
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
 <hr>
