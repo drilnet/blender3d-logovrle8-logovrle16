@@ -15,4 +15,4 @@
 
 Логотип для алгоритма VRLE8 (анимационный)
 
-![](https://github.com/drilnet/blender3d-logovrle8-logovrle16/blob/master/LogoVRLE8%2C%20ver.%200%207/LogoVRLE8%2C%2055%25%20(352x187)
+![](https://github.com/drilnet/blender3d-logovrle8-logovrle16/blob/master/LogoVRLE8%2C%20ver.%200%207/LogoVRLE8%2C%2055%25%20(352x187)%20HQ.webp)
