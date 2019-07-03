@@ -19,7 +19,7 @@
 
 ![](https://github.com/drilnet/blender3d-logovrle8-logovrle16/blob/master/LogoVRLE8%2C%20ver.%200%207/LogoVRLE8%2C%2055%25%20(352x187)%20HQ.webp)
 
-Изображения логотипа VRLE8 разных размеров (плюс анимация разных размеров) и сам **blend**-файл [здесь](https://github.com/drilnet/blender3d-logovrle8-logovrle16/tree/master/LogoVRLE8%2C%20ver.%200%207)
+Изображения логотипа разных размеров (плюс анимация разных размеров) и сам **blend**-файл [здесь](https://github.com/drilnet/blender3d-logovrle8-logovrle16/tree/master/LogoVRLE8%2C%20ver.%200%207)
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
