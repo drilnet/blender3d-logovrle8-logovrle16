@@ -24,3 +24,9 @@
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
 <hr>
+
+**Дополнительные ссылки:**
+* 3D редактор Blender: [https://www.blender.org/](https://www.blender.org)
+* Графический редактор Gimp: [https://www.gimp.org/](https://www.gimp.org)
+
+<hr>
