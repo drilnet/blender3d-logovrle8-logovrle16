@@ -11,11 +11,12 @@
 
 <hr>
 
+**Версия Blender'а:** 2.79b ([https://www.blender.org](https://www.blender.org))
+<br>
 **Рендер:** Blender Render
 <br>
 **Единица измерения:** Метрическая (в миллиметрах)
-<br>
-**Версия Blender'а:** 2.79b ([https://www.blender.org](https://www.blender.org))
+
 
 **Логотип для алгоритма VRLE8 (неанимационный)**
 
