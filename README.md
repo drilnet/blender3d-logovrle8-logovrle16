@@ -11,7 +11,7 @@
 
 <hr>
 
-Работа сделана в **Blender 2.79b** ([https://www.blender.org](https://www.blender.org))
+Работа сделана в **Blender 2.79b** ([https://www.blender.org](https://www.blender.org)).
 
 **Рендер:** Blender Render
 <br>
