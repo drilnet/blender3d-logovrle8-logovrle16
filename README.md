@@ -11,6 +11,8 @@
 
 <hr>
 
+Сделано в **Blender 2.79b** [https://www.blender.org](https://www.blender.org).
+
 **Рендер:** Blender Render
 <br>
 **Единица измерения:** Метрическая (в миллиметрах)
