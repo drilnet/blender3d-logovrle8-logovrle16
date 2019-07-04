@@ -19,7 +19,7 @@
 <br>
 **Единица измерения:** Метрическая (в миллиметрах)
 
-Логотип для алгоритма **VRLE8** (**неанимационный и анимационный**):
+Результат (**неанимационный и анимационный**):
 
 ![](https://github.com/drilnet/blender3d-logovrle8-logovrle16/blob/master/LogoVRLE8%2C%20ver.%200%207/LogoVRLE8%2C%2055%25%20(352x187).png)
 ![](https://github.com/drilnet/blender3d-logovrle8-logovrle16/blob/master/LogoVRLE8%2C%20ver.%200%207/LogoVRLE8%2C%2055%25%20(352x187)%20HQ.webp)
@@ -27,11 +27,15 @@
 Логотип **неанимационный** и **анимационный** разных размеров (ширина/высота в px) и сам **blend**-файл -
 [ здесь](https://github.com/drilnet/blender3d-logovrle8-logovrle16/tree/master/LogoVRLE8%2C%20ver.%200%207)
 
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
+
+### VRLE16
+
+<hr>
+
 **Примечание.**
 <br>
 Логотип для алгоритма **VRLE16** будет чуть позже!
-
-[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
 <hr>
 
