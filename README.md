@@ -42,6 +42,7 @@
 **Дополнительные ссылки:**
 * 3D редактор Blender: [https://www.blender.org/](https://www.blender.org)
 * Графический редактор Gimp: [https://www.gimp.org/](https://www.gimp.org)
+* Кодирование в графический формат [WebP](https://ru.wikipedia.org/wiki/WebP) ([UKR](https://uk.wikipedia.org/wiki/WebP)): https://developers.google.com/speed/webp
 
 <hr>
 
