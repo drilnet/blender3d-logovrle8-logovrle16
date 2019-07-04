@@ -9,9 +9,9 @@
 
 ![](https://github.com/drilnet/blender3d-logovrle8-logovrle16/blob/master/UA.png)
 
-### VRLE8
-
 <hr>
+
+### VRLE8
 
 Работа сделана в **Blender 2.79b** ([https://www.blender.org](https://www.blender.org)).
 
@@ -32,8 +32,6 @@
 <hr>
 
 ### VRLE16
-
-<hr>
 
 **Примечание.**
 <br>
