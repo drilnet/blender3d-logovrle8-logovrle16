@@ -79,5 +79,8 @@ LogoVRLE8, 75% (480x255).png     - Изображение логотипа в ф
 > img2webp.exe -loop 0 -lossless -q 100 -m 6 -d 1000 0001.png 0002.png 0003.png -o file.webp
 ```
 
--loop 0 - бесконечный цикл
--lossless - сжатие без потерь
+hknkkvgb8y uyuiobn
+
+**-loop 0** - бесконечный цикл
+<br>
+**-lossless** - сжатие без потерь
