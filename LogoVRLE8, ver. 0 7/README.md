@@ -72,7 +72,7 @@ LogoVRLE8, 75% (480x255).png     - Изображение логотипа в ф
 <br>
 Официальный сайт разработчика [здесь](https://developers.google.com/speed/webp/).
 
-**Как пользоваться утилитой **[img2webp.exe](https://developers.google.com/speed/webp/docs/img2webp)**?**
+Как пользоваться утилитой [img2webp.exe](https://developers.google.com/speed/webp/docs/img2webp)?
 
 ```
 Пример 1 (сжатие без потерь):
