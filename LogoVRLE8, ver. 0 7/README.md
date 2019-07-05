@@ -111,5 +111,7 @@ LogoVRLE8, 75% (480x255).png     - Изображение логотипа в ф
               -o file.webp - выходной файл будет 'file.webp'.
 ```
 
-### Информационные ресурсы (Вики)
+### Информационные ресурсы (Вики):
+
+* [3D редактор Blender](https://ru.wikipedia.org/wiki/Blender) ([UKR](https://uk.wikipedia.org/wiki/Blender))
 
