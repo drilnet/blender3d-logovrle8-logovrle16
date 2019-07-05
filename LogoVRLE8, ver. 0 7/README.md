@@ -15,9 +15,9 @@ Frames (200) 75% (480x255) - -/-
 Нарезка (224x119px):
 
 ```
-LogoVRLE8, 35% (224x119) HQ.webp - Анимация в формате WEBP (Hight Quality).
-LogoVRLE8, 35% (224x119) LQ.webp - Анимация в формате WEBP (Low Quality).
-LogoVRLE8, 35% (224x119).gif     - Анимация в формате GIF без оптимизации.
-LogoVRLE8, 35% (224x119).jpg     - Cтатическое изображение в формате JPG.
-LogoVRLE8, 35% (224x119).png     - Cтатическое изображение в формате PNG.
+LogoVRLE8, 35% (224x119) HQ.webp - Анимационный логотип в формате WEBP (Hight Quality).
+LogoVRLE8, 35% (224x119) LQ.webp - Анимационный логотип в формате WEBP (Low Quality).
+LogoVRLE8, 35% (224x119).gif     - Анимационный логотип в формате GIF, без оптимизации.
+LogoVRLE8, 35% (224x119).jpg     - Изображение логотипа в формате JPG.
+LogoVRLE8, 35% (224x119).png     - Изображение логотипа в формате PNG.
 ```
