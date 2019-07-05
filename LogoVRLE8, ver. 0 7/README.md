@@ -71,3 +71,7 @@ LogoVRLE8, 75% (480x255).png     - Изображение логотипа в ф
 Репозиторий с разными версиями и подразные платформы [здесь](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/index.html).
 <br>
 Официальный сайт разработчика [здесь](https://developers.google.com/speed/webp/).
+
+**Как пользоваться** [img2webp.exe](https://developers.google.com/speed/webp/docs/img2webp)**?**
+
+Примеры:
