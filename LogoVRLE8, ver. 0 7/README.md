@@ -64,4 +64,6 @@ LogoVRLE8, 75% (480x255).png     - Изображение логотипа в ф
 
 ### Дополнительная информация
 
-**ччясмячКак были созданы WEBP-файлы?**
+**WEBP-файлы! Как сделать?**
+
+Я пользовался вот этим [libwebp-1.0.2-rc1-windows-x86-no-wic.zip](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.0.2-rc1-windows-x86-no-wic.zip)
