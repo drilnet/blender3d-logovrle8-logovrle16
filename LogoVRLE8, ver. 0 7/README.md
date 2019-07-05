@@ -74,4 +74,8 @@ LogoVRLE8, 75% (480x255).png     - Изображение логотипа в ф
 
 **Как пользоваться утилитой (**[img2webp.exe](https://developers.google.com/speed/webp/docs/img2webp)**)?**
 
-Примеры:
+Пример 1 (сжатие без потерь):
+
+```
+> img2webp.exe -loop 0 -lossless -q 100 -m 6 -d 1000 0001.png 0002.png 0003.png -o file.webp
+Где
