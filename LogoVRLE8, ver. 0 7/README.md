@@ -124,14 +124,6 @@ RLE.Mesh.blend.copy  - Копия.
 
 Информационные ресурсы (Вики):
 
-* [3D редактор Blender в русской Вики](https://ru.wikipedia.org/wiki/Blender)
-* [3D редактор Blender в украинской Вики](https://uk.wikipedia.org/wiki/Blender)
-* [Графический формат GIF в русской Вики](https://ru.wikipedia.org/wiki/GIF)
-* [Графический формат GIF в украинской Вики](https://uk.wikipedia.org/wiki/GIF)
-* [Графический формат JPG в русской Вики](https://ru.wikipedia.org/wiki/JPEG)
-* [Графический формаь JPG в украинской Вики](https://uk.wikipedia.org/wiki/JPEG)
-* [Графический формат PNG в русской Вики](https://ru.wikipedia.org/wiki/PNG)
-* [Графический формат PNG в украинской Вики](https://uk.wikipedia.org/wiki/PNG)
 * [Графический формат WEBP в русской Вики](https://ru.wikipedia.org/wiki/WebP)
 * [Графический формат WEBP в украинской Вики](https://uk.wikipedia.org/wiki/WebP)
 
