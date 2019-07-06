@@ -64,9 +64,14 @@ LogoVRLE8, 75% (480x255).jpg     - Изображение логотипа в ф
 LogoVRLE8, 75% (480x255).png     - Изображение логотипа в формате PNG.
 ```
 
-**blend-файлы:**
+**Файлы Blender'а:**
 
-ll;m;lmlkm jgjkgiu h,m.,ml
+```
+LogoVRLE8.blend      - Логотип VRLE8 (Blender 2.79b).
+LogoVRLE8.blend.copy - Копия.
+RLE.Mesh.blend       - Надпись RLE преобразована из Безье в Меш. 
+RLE.Mesh.blend.copy  - Копия.
+```
 
 ### Дополнительная информация
 
