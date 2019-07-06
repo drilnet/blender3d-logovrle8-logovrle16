@@ -123,4 +123,6 @@ RLE.Mesh.blend.copy  - Копия.
 ### Информационные ресурсы (Вики):
 
 * [3D редактор Blender](https://ru.wikipedia.org/wiki/Blender) ([UKR](https://uk.wikipedia.org/wiki/Blender))
-
+* [Графический формат JPG](https://ru.wikipedia.org/wiki/JPEG) ([UKR](https://uk.wikipedia.org/wiki/JPEG))
+* [Графический формат PNG](https://ru.wikipedia.org/wiki/PNG) ([UKR](https://uk.wikipedia.org/wiki/PNG))
+* [Графический формат WEBP](https://ru.wikipedia.org/wiki/WebP) ([UKR](https://uk.wikipedia.org/wiki/WebP))
