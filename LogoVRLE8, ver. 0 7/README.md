@@ -120,9 +120,15 @@ RLE.Mesh.blend.copy  - Копия.
               -o file.webp - выходной файл будет 'file.webp'.
 ```
 
-### Информационные ресурсы (Вики):
+<hr>
+
+Информационные ресурсы (Вики):
 
 * [3D редактор Blender](https://ru.wikipedia.org/wiki/Blender) ([UKR](https://uk.wikipedia.org/wiki/Blender))
 * [Графический формат JPG](https://ru.wikipedia.org/wiki/JPEG) ([UKR](https://uk.wikipedia.org/wiki/JPEG))
 * [Графический формат PNG](https://ru.wikipedia.org/wiki/PNG) ([UKR](https://uk.wikipedia.org/wiki/PNG))
 * [Графический формат WEBP](https://ru.wikipedia.org/wiki/WebP) ([UKR](https://uk.wikipedia.org/wiki/WebP))
+
+<hr>
+
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (C) Демидов С.В.
