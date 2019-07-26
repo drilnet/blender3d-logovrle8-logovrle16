@@ -82,6 +82,13 @@ LogoVRLE16.Animation.blend.copy - Копия.
 LogoVRLE16.blend      - Неанимационный логотип VRLE16 (сделано в Blender 2.79b).
 LogoVRLE16.blend.copy - Копия.
 ```
+
+**BAT-файл для Windows:**
+
+```
+img2webp_vrle8_HQ_&_LQ.bat - Конвертирует кадры в формат WEBP.
+```
+
 ### Дополнительная информация
 
 **WEBP-файлы! Как сделать?**
