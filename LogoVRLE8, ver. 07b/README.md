@@ -75,7 +75,7 @@ RLE.Mesh.blend.copy  - Копия.
 **BAT-файл для Windows:**
 
 ```
-img2webp_vrle8_HQ_&_LQ.bat - Кадры в формат WEBP.
+img2webp_vrle8_HQ_&_LQ.bat - Конвертирует кадры в формат WEBP.
 ```
 
 ### Дополнительная информация
