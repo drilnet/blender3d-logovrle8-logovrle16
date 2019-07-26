@@ -75,12 +75,11 @@ LogoVRLE16.blend, 75% (480x255).png - Неанимационный логоти�
 
 ```
 
-llklklkm
+LogoVRLE16.Animation.blend      - Анимационный логотип VRLE16 (сделано в Blender 2.79b).
+LogoVRLE16.Animation.blend.copy - Копия.
 
-LogoVRLE8.blend      - Логотип VRLE8 (сделано в Blender 2.79b).
-LogoVRLE8.blend.copy - Копия.
-RLE.Mesh.blend       - Надпись RLE преобразована из Безье в Меш (сделано в Blender 2.79b ).
-RLE.Mesh.blend.copy  - Копия.
+LogoVRLE16.blend      - Неанимационный логотип VRLE16 (сделано в Blender 2.79b).
+LogoVRLE16.blend.copy - Копия.
 ```
 
 ### Дополнительная информация
