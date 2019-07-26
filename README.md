@@ -47,6 +47,13 @@
 ![](https://github.com/drilnet/blender3d-logovrle8-logovrle16/blob/master/LogoVRLE16%2C%20ver.%2007a/LogoVRLE16.blend%2C%2055%25%20(352x187).png)
 ![](https://github.com/drilnet/blender3d-logovrle8-logovrle16/blob/master/LogoVRLE16%2C%20ver.%2007a/LogoVRLE16.Animation.blend%2C%2055%25%20(352x187)%20HQ.webp)
 
+Логотип **неанимационный** и **анимационный** разных размеров (ширина/высота) и сам **blend**-файл -
+[ здесь]()
+<br>
+Реализация алгоритма на языке [Cи](https://ru.wikipedia.org/wiki/Си_(язык_программирования)) ([UKR](https://uk.wikipedia.org/wiki/C_(мова_програмування))) - [здесь](https://github.com/drilnet/rle)
+
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
+
 <hr>
 
 **Дополнительные ссылки:**
