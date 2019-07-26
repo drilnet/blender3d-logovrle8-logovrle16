@@ -143,6 +143,9 @@ img2webp_vrle8_HQ_&_LQ.bat - Конвертирует кадры в формат
 * [Графический формат WEBP в русской Вики](https://ru.wikipedia.org/wiki/WebP)
 * [Графический формат WEBP в украинской Вики](https://uk.wikipedia.org/wiki/WebP)
 
+**Примечание.**
+Также эта информация есть в [LogoVRLE8, ver. 07b](https://github.com/drilnet/blender3d-logovrle8-logovrle16/tree/master/LogoVRLE8%2C%20ver.%2007b)
+
 <hr>
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (C) Демидов С.В.
