@@ -72,6 +72,11 @@ LogoVRLE8.blend.copy - Копия.
 RLE.Mesh.blend       - Надпись RLE преобразована из Безье в Меш (сделано в Blender 2.79b ).
 RLE.Mesh.blend.copy  - Копия.
 ```
+**BAT-файл для Windows:**
+
+```
+img2webp_vrle8_HQ_&_LQ.bat - Кадры в формат **WEBP**.
+```
 
 ### Дополнительная информация
 
