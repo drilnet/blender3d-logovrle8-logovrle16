@@ -125,6 +125,10 @@ img2webp_vrle8_HQ_&_LQ.bat - Конвертирует кадры в формат
               -o file.webp - выходной файл будет 'file.webp'.
 ```
 
+**Примечание.**
+<br>
+Также эта информация есть в [LogoVRLE16, ver. 07a](https://github.com/drilnet/blender3d-logovrle8-logovrle16/tree/master/LogoVRLE16%2C%20ver.%2007a)
+
 <hr>
 
 Информационные ресурсы (Вики):
