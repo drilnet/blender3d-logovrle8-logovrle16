@@ -1,6 +1,6 @@
 ![](https://github.com/drilnet/blender3d-logovrle8-logovrle16/blob/master/UA.png)
 
-199 кадров в формате **PNG**,
+199 кадров в формате **PNG**.
 <br>
 Архив можно распаковать с помощью архиватора [7-Zip](https://www.7-zip.org/download.html)!
 
