@@ -7,6 +7,10 @@
 
 Лицензия: **Free**.
 
+Уважаемый соискатель!
+<br>
+При использовании этого материала, ссылка на источник обязательна!
+
 ![](https://github.com/drilnet/blender3d-logovrle8-logovrle16/blob/master/UA.png)
 
 <hr>
