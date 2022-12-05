@@ -144,8 +144,8 @@ img2webp_vrle8_HQ_&_LQ.bat - Конвертирует кадры в формат
 
 Информационные ресурсы (Вики):
 
-* [Графический формат WEBP в русской Вики](https://ru.wikipedia.org/wiki/WebP)
-* [Графический формат WEBP в украинской Вики](https://uk.wikipedia.org/wiki/WebP)
+* [Графический формат WEBP в Русской Вики](https://ru.wikipedia.org/wiki/WebP)
+* [Графический формат WEBP в Украинской Вики](https://uk.wikipedia.org/wiki/WebP)
 
 <hr>
 
