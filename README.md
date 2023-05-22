@@ -81,7 +81,7 @@
 <br>
 **Репозиторий:** [Blender 3D. Disabled Person (анимированная иконка)](https://github.com/drilnet/blender3d-disabled-person)
 <br>
-**Репозиторий:** [Blender 3D. Флоппи диск 3.5"](https://github.com/drilnet/blender3d-floppy-disk-35)
+**Репозиторий:** [Blender 3D. Флоппи-диск 3.5"](https://github.com/drilnet/blender3d-floppy-disk-35)
 <br>
 **Репозиторий:** [Blender 3D. Микросхема TEA2025B в 3D](https://github.com/drilnet/blender3d-tea2025b)
 <br>
